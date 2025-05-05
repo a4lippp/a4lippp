@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1>Hi 👋, I'm alipppp</h1>
+<h3>hi, i break things so you don’t have to 🛠️</h3>
 
-<!--
-**a4lippp/a4lippp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **android modding like porting and other**
 
-Here are some ideas to get you started:
+- 📱 which phone do i own?
+  - Galaxy A14: main phone (im gonna kill this) 
+  - Redmi Note 7: secondary phone but already dead
+  - Redmi Note 13: main phone 2
+  - Samsung A8: no screen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 my poor pc setup and specs?
+  - i5 7400 3.50 GHz
+  - Windows 11, macOS Sequoia, and Ubuntu 24 WSL
+  - Sapphire RX 580 8GB
+  - 4×2GB RAM 2400 MHz
+  - 128GB SSD Venom RX
+  - 256GB NVMe M.2 Gen 3 KLEVV CRAS C715
+  - 1TB HDD Seagate
+  - Monitors:
+    - MSI MP243X 1080×1920 100Hz (main screen)
+    - LG HD 1366×768 75Hz
+  - Zifriend ZA87 mechanical keyboard, yellow switch, tape mod
+  - Fantech Crypto VX7 mouse
+
+<h3>Connect with me:</h3>
+<p>TikTok: <strong>@alipcoeg</strong></p>
