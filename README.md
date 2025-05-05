@@ -8,6 +8,7 @@
   - Redmi Note 7: secondary phone but already dead
   - Redmi Note 13: main phone 2
   - Samsung A8: no screen
+  - Iphone 11: imei blocked (weird government)
 
 - 💻 my poor pc setup and specs?
   - i5 7400 3.50 GHz
