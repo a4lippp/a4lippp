@@ -12,7 +12,7 @@
 
 - 💻 my poor pc setup and specs?
   - i5 7400 3.50 GHz
-  - Windows 11, macOS Sequoia, and Ubuntu 24 WSL
+  - Windows 11, macOS Tahoe 26 Beta 3, and Ubuntu 24 WSL
   - Sapphire RX 580 8GB
   - 4×2GB RAM 2400 MHz
   - 128GB SSD Venom RX
@@ -21,7 +21,7 @@
   - Monitors:
     - MSI MP243X 1080×1920 100Hz (main screen)
     - LG HD 1366×768 75Hz
-  - Zifriend ZA87 mechanical keyboard, yellow switch, tape mod
+  - Vortex Mono Series 87, WHite switch
   - Fantech Crypto VX7 mouse
 
 <h3>Connect with me:</h3>
