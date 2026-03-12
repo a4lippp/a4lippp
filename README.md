@@ -4,15 +4,17 @@
 - 🌱 I’m currently learning **android modding like porting and other**
 
 - 📱 which phone do i own?
-  - Galaxy A14: main phone (im gonna kill this) 
+  - Redmi Note 13: main phone 
   - Redmi Note 7: secondary phone but already dead
-  - Redmi Note 13: main phone 2
+  - Galaxy A14: dead for no reason xd
   - Samsung A8: no screen
-  - Iphone 11: imei blocked (weird government)
-
+  - Redmi 5A: touchscreen ded
+  - POCO M5: useless for me
+  - Iphone 11: lost
+  
 - 💻 my poor pc setup and specs?
   - i5 7400 3.50 GHz
-  - Windows 11, macOS Tahoe 26 Beta 3, and Ubuntu 24 WSL
+  - Windows 11, macOS Tahoe 26, archlinux, and Ubuntu 24 WSL
   - Sapphire RX 580 8GB
   - 4×2GB RAM 2400 MHz
   - 128GB SSD Venom RX
