@@ -9,8 +9,6 @@ just a kid got interest on github!
 ![](https://streak-stats.demolab.com/?user=a4lippp&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=a4lippp&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=a4lippp&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## you can help me anw!
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/alippchito) 
